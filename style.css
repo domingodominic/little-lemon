@@ -59,11 +59,13 @@ section:nth-child(1) {
   background-color: rgb(131, 138, 109);
 }
 section:nth-child(2) article {
+  height: fit-content;
   margin-top: 3rem;
   margin-left: 1rem;
   margin-right: 1rem;
 }
 article {
+
   padding: 20px;
   text-align: center;
   flex: 1;
